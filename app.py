@@ -6,6 +6,5 @@ external_stylesheets = ['https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&f
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-server = app.server
 app.config.suppress_callback_exceptions = True
 app.css.config.serve_locally = True
