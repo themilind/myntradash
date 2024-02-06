@@ -9,3 +9,5 @@ assets folder contains images used in the dash app.
 ==========
 On render link, app may take some time to load.
 ==========
+https://myntradashv1.onrender.com
+==========
